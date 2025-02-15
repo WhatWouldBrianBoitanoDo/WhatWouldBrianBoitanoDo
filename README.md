@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**WhatWouldBrianBoitanoDo/WhatWouldBrianBoitanoDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on NOTHING, I am capable of creating NOTHING
 - 🌱 I’m currently learning NOTHING, I am fucking stupid
 - 👯 I’m looking to collaborate on NOTHING, I am afraid of people
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: do NOT, I will do NOTHING but WASTE your time
 - 😄 Pronouns: NOTHING, because I do not want to be addressed
 - ⚡ Fun fact: This profile is how I live in real life, I live a NOTHING life
--->
